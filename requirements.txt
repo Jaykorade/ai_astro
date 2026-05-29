@@ -1,0 +1,13 @@
+streamlit
+sqlalchemy
+bcrypt
+PyJWT
+python-dotenv
+email-validator
+reportlab
+openai
+langchain
+langchain-openai
+chromadb
+pyswisseph
+flatlib
